@@ -12,7 +12,7 @@ public class Position {
 	}
 
 
-	public int getRow() {
+	 public int getRow() {
 		return row;
 	}
 
